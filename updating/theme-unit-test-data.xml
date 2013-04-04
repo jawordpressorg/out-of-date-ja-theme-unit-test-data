@@ -20,9 +20,9 @@
 <!-- generator="WordPress.com" created="2013-03-06 22:07"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
-<title>Theme Unit Test Data</title>
+<title>テーマユニットテスト用データ</title>
 <link>http://wpthemetestdata.wordpress.com</link>
-<description>Just another WordPress website with a purposefully really long description</description>
+<description>Just another WordPress ウェブサイト - 意図的に長いディスクリプションが付けられています。</description>
 <pubDate>Wed, 06 Mar 2013 22:07:44 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
@@ -633,12 +633,12 @@
 <generator>http://wordpress.com/</generator>
 <cloud domain='wpthemetestdata.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
 <image>
-		<url>https://s2.wp.com/i/buttonw-com.png</url>
-		<title>Theme Unit Test Data</title>
-		<link>http://wpthemetestdata.wordpress.com</link>
-	</image>
-	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://wpthemetestdata.wordpress.com/osd.xml" title="Theme Unit Test Data" />
-	<atom:link rel='hub' href='http://wpthemetestdata.wordpress.com/?pushpress=hub'/>
+    <url>https://s2.wp.com/i/buttonw-com.png</url>
+    <title>テーマユニットテスト用データ</title>
+    <link>http://wpthemetestdata.wordpress.com</link>
+  </image>
+  <atom:link rel="search" type="application/opensearchdescription+xml" href="http://wpthemetestdata.wordpress.com/osd.xml" title="テーマユニットテスト用データ" />
+  <atom:link rel='hub' href='http://wpthemetestdata.wordpress.com/?pushpress=hub'/>
 <item>
   <title>Page A</title>
   <link>http://wpthemetestdata.wordpress.com/page-a/</link>
@@ -1204,21 +1204,17 @@ audio/mpeg
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/about/</guid>
   <description></description>
-  <content:encoded><![CDATA[This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme.
+  <content:encoded><![CDATA[このサイトは WordPress 標準のテーマユニットテスト用データ (非公式日本語版) をコンテンツとして使っています。テーマユニットテストには WordPress Codex 上のチェックリストに合わせた一連のブログ投稿と固定ページが含まれています。このデータとチェックリストを利用して、ご自分のテーマのテストができます。
 
-
-
-<h2>WordPress Theme Development Resources</h2>
-
-
+<h2>WordPress テーマ開発リソース</h2>
 
 <ol>
 
-	<li>See <a href="http://codex.wordpress.org/Theme_Development">Theme Development</a> for <a href="http://codex.wordpress.org/Theme_Development#Code_Standards">code standards</a>, examples of best practices, and <a href="http://codex.wordpress.org/Theme_Development#Resources_and_References">resources for Theme development</a>.</li>
+  <li><a href="http://codex.wordpress.org/Theme_Development#Code_Standards">コード基準</a>、ベストプラクティスの例、<a href="http://wpdocs.sourceforge.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90#.E5.8F.82.E8.80.83.E8.B3.87.E6.96.99">テーマ開発のリソース</a>については<a href="http://wpdocs.sourceforge.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90">テーマ開発</a>ドキュメンテーションを参照してください。</li>
 
-	<li>See <a href="http://codex.wordpress.org/Theme_Unit_Test">Theme Unit Test</a> for a robust test suite for your Theme and get the latest version of the test data you see here.</li>
+  <li>ご自分のテーマ用の確実なテストスイートは<a href="http://wpdocs.sourceforge.jp/Theme_Unit_Test">テーマユニットテスト</a>を参照してください。また、そちらでテストデータの最新版を入手できます。</li>
 
-	<li>See <a href="http://codex.wordpress.org/Theme_Review">Theme Review</a> for a guide to submitting your Theme to the <a href="http://wordpress.org/extend/themes/">Themes Directory</a>.</li>
+  <li>ご自分のテーマを<a href="http://wordpress.org/extend/themes/">テーマディレクトリ</a>に申請するためのガイドラインについては<a href="http://wpdocs.sourceforge.jp/Theme_Review">テーマレビュー</a>を参照してください。</li>
 
 </ol>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1626,22 +1622,20 @@ And some trailing text.
 <tbody>
 
 <tr>
+<th>タイトル</th>
 
-<th>Title</th>
-
-<th class="views">Views</th>
-
+<th class="views">閲覧数</th>
 <th></th>
 
 </tr>
 
 <tr class="alternate">
 
-<td class="label"><a href="http://wpthemetestdata.wordpress.com/about/">About Test User</a></td>
+<td class="label"><a href="http://wpthemetestdata.wordpress.com/about/">テストユーザーについて</a></td>
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -1651,17 +1645,17 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
 <tr class="alternate">
 
-<td class="label"><a href="http://wpthemetestdata.wordpress.com/archives/">Archives</a></td>
+<td class="label"><a href="http://wpthemetestdata.wordpress.com/archives/">アーカイブ</a></td>
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -1671,7 +1665,7 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -1679,51 +1673,51 @@ And some trailing text.
 
 </table>
 
-<h2>List Type Tests</h2>
+<h2>リストタイプのテスト</h2>
 
-<h3>Definition List</h3>
+<h3>定義リスト</h3>
 
-<dl> <dt>Definition List Title</dt> <dd>This is a definition list division.</dd> <dt>Definition</dt> <dd>An exact statement or description of the nature, scope, or meaning of something: <em>our definition of what constitutes poetry.</em></dd> <dt>Gallery</dt> <dd>A feature introduced with WordPress 2.5, that is specifically an exposition of images attached to a post. In that same vein, an upload is "attached to a post" when you upload it while editing a post.</dd> <dt>Gravatar</dt> <dd>A globally recognized avatar (a graphic image or picture that represents a user). A gravatar is associated with an email address, and is maintained by the Gravatar.com service. Using this service, a blog owner can configure their blog so that a user's gravatar is displayed along with their comments.</dd> </dl>
+<dl> <dt>定義リストタイトル</dt> <dd>これは定義リストです。</dd> <dt>定義</dt> <dd>物事、領域、何かについての意味の正確な文章や説明: <em>詩を構成するものの定義。</em><em></em></dd> <dt>ギャラリー</dt> <dd>WordPress 2.5 から導入された、投稿に添付された画像を展示するための機能です。同じように、投稿を編集中にアップロードすると、そのファイルは「投稿に添付」されます。 </dd> <dt>Gravatarグラバター</dt> <dd>グラバターとはグローバルに認識されるアバター（あるユーザーを表すグラフィックイメージや写真）です。グラバターはメールアドレスと紐づいていて、Gravatar.com サービスによって管理されています。このサービスを利用すると、ブログ所有者は自分のブログを設定することによりコメント欄にユーザーのグラバターを表示させることができます。</dd> </dl>
 
-<h3>Unordered List (Nested)</h3>
-
-<ul>
-
-	<li>List item one
+<h3>非順序リスト（ネスト化）</h3>
 
 <ul>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ul>
 
-	<li>List item one</li>
+  <li>リストアイテム1
 
-	<li>List item two</li>
+<ul>
 
-	<li>List item three</li>
+  <li>リストアイテム1</li>
 
-	<li>List item four</li>
+  <li>リストアイテム2</li>
+
+  <li>リストアイテム3</li>
+
+  <li>リストアイテム4</li>
 
 </ul>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ul>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ul>
 
@@ -1731,41 +1725,41 @@ And some trailing text.
 
 <ol>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ol>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ol>
 
-	<li>List item one</li>
+  <li>リストアイテム1</li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
@@ -1795,11 +1789,11 @@ Need to display completely unformatted text, such as a large block of code? Use 
 
 <pre>#container {
 
-	float: left;
+  float: left;
 
-	margin: 0 -240px 0 0;
+  margin: 0 -240px 0 0;
 
-	width: 100%;
+  width: 100%;
 
         and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
 
@@ -2688,7 +2682,7 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -2698,7 +2692,7 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -2708,7 +2702,7 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -2718,7 +2712,7 @@ And some trailing text.
 
 <td class="views">1</td>
 
-<td class="more">More</td>
+<td class="more">以上</td>
 
 </tr>
 
@@ -2726,93 +2720,93 @@ And some trailing text.
 
 </table>
 
-<h2>List Type Tests</h2>
+<h2>リストタイプのテスト</h2>
 
-<h3>Definition List</h3>
+<h3>定義リスト</h3>
 
-<dl> <dt>Definition List Title</dt> <dd>This is a definition list division.</dd> <dt>Definition</dt> <dd>An exact statement or description of the nature, scope, or meaning of something: <em>our definition of what constitutes poetry.</em></dd> <dt>Gallery</dt> <dd>A feature introduced with WordPress 2.5, that is specifically an exposition of images attached to a post. In that same vein, an upload is "attached to a post" when you upload it while editing a post.</dd> <dt>Gravatar</dt> <dd>A globally recognized avatar (a graphic image or picture that represents a user). A gravatar is associated with an email address, and is maintained by the Gravatar.com service. Using this service, a blog owner can configure their blog so that a user's gravatar is displayed along with their comments.</dd> </dl>
+<dl> <dt>定義リストタイトル</dt> <dd>これは定義リストです。</dd> <dt>定義</dt> <dd>物事、領域、何かについての意味の正確な文章や説明: <em>詩を構成するものの定義。</em><em></em></dd> <dt>ギャラリー</dt> <dd>WordPress 2.5 から導入された、投稿に添付された画像を展示するための機能です。同じように、投稿を編集中にアップロードすると、そのファイルは「投稿に添付」されます。 </dd> <dt>Gravatarグラバター</dt> <dd>グラバターとはグローバルに認識されるアバター（あるユーザーを表すグラフィックイメージや写真）です。グラバターはメールアドレスと紐づいていて、Gravatar.com サービスによって管理されています。このサービスを利用すると、ブログ所有者は自分のブログを設定することによりコメント欄にユーザーのグラバターを表示させることができます。</dd> </dl>
 
-<h3>Unordered List (Nested)</h3>
-
-<ul>
-
-	<li>List item one
+<h3>非順序リスト（ネスト化）</h3>
 
 <ul>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ul>
 
-	<li>List item one</li>
+  <li>リストアイテム1
 
-	<li>List item two</li>
+<ul>
 
-	<li>List item three</li>
+  <li>リストアイテム1</li>
 
-	<li>List item four</li>
+  <li>リストアイテム2</li>
+
+  <li>リストアイテム3</li>
+
+  <li>リストアイテム4</li>
 
 </ul>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ul>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ul>
 
-<h3>Ordered List</h3>
+<h3>順序リスト</h3>
 
 <ol>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ol>
 
-	<li>List item one
+  <li>リストアイテム1
 
 <ol>
 
-	<li>List item one</li>
+  <li>リストアイテム1</li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
 </li>
 
-	<li>List item two</li>
+  <li>リストアイテム2</li>
 
-	<li>List item three</li>
+  <li>リストアイテム3</li>
 
-	<li>List item four</li>
+  <li>リストアイテム4</li>
 
 </ol>
 
@@ -2842,11 +2836,11 @@ Need to display completely unformatted text, such as a large block of code? Use 
 
 <pre>#container {
 
-	float: left;
+  float: left;
 
-	margin: 0 -240px 0 0;
+  margin: 0 -240px 0 0;
 
-	width: 100%;
+  width: 100%;
 
 }</pre>
 
@@ -3379,7 +3373,7 @@ The last item in this post is a floated image. Make sure any elements after it a
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=701</guid>
   <description></description>
-  <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Front Page template file. 
+  <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Front Page template file.
 
 
 
