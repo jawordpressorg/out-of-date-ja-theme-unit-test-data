@@ -1,0 +1,4 @@
+*.bak
+*.back
+/nbproject/
+.DS_Store
