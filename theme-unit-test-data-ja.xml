@@ -461,7 +461,7 @@
 		<wp:attachment_url>http://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/01/dsc20050604_133440_34211.jp]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2011/01/dsc20050604_133440_34211.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
@@ -891,7 +891,7 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<dc:creator>Cais</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/parent-page/</guid>
 		<description></description>
-		<content:encoded><![CDATA[このページには子ページが有ります。]]></content:encoded>
+		<content:encoded><![CDATA[このページには子ページがあります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date>2007-09-04 09:51:09</wp:post_date>
@@ -941,7 +941,7 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<dc:creator>Cais</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/parent-page/child-page-1/</guid>
 		<description></description>
-		<content:encoded><![CDATA[このページには親ページと子ページが有ります。]]></content:encoded>
+		<content:encoded><![CDATA[このページには親ページと子ページがあります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date>2007-09-04 09:51:50</wp:post_date>
@@ -991,7 +991,7 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<dc:creator>Cais</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/parent-page/child-page-1/child-page-2/</guid>
 		<description></description>
-		<content:encoded><![CDATA[このページには親ページが有ります。]]></content:encoded>
+		<content:encoded><![CDATA[このページには親ページがあります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date>2007-09-04 09:52:18</wp:post_date>
@@ -1669,7 +1669,7 @@ H<sub>2</sub>O もしくは E = MC<sup>2</sup>? と書く必要があります�
 		<dc:creator>Cais</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/page-with-comments/</guid>
 		<description></description>
-		<content:encoded><![CDATA[この固定ページンにはコメントが有ります。]]></content:encoded>
+		<content:encoded><![CDATA[この固定ページにはコメントがあります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date>2007-09-04 10:47:47</wp:post_date>
